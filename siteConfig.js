@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "growfogbox",
+    title: "twocold.org",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "growfogbox.com",
+  siteTitle: "twocold.org",
   siteDescription:
-    "growfogbox.com",
+    "twocold.org",
   language: "he",
   logoUrl: "",
   iconUrl: "",

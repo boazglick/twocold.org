@@ -1,5 +1,5 @@
 {
-  "baseUrl": "twocold.ussl.co.il",
+  "baseUrl": "spider.ussl.co.il/twocold",
   "protocol": "https",
   "hostingWPCOM": false,
   "useACF": true,
